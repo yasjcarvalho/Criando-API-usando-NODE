@@ -139,7 +139,7 @@ app.listen(9000, async () => {
 });
 ```
 
-## Exporando os recursos de rotas
+## Explorando os recursos de rotas
 
 - Revisar arrow function;
 - Destacar o método GET, em breve usar POST/PUT/DELETE;
