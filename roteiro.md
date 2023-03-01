@@ -1,5 +1,18 @@
 # Projeto de API
 
+Tarefas: 0. Requisitos
+0.1 Node
+0.2 Mysql
+0.3 Mysql Workbench
+
+1. Configurar o projeto
+   1.1 npm init
+   2.2 npm install
+2. Criar as rotas - express
+   GET, GET:id, POST, DELETE, PUT
+3. Persistência - banco
+   SEQUELIZE - MYSQL
+
 ## Proposta
 
 1. Objetivo: Criar api usando Node
